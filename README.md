@@ -9,14 +9,15 @@ This repository contains examples of various algorithms written on different pro
 
 ## Implemented Algorithms
 
-| Algorithm                                                                                       | C                                     | CPP                                   | Java                                  | Python                                |
-|:----------------------------------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| [Euclidean GCD](https://en.wikipedia.org/wiki/Euclidean_algorithm)                              |                                       |                                       |                                       | [:octocat:](euclidean_gcd/Python)     |
-| [QuickSort](https://en.wikipedia.org/wiki/Quicksort)                                            |                                       |                                       |                                       | [:octocat:](quicksort/Python)         |
-| [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)                                          |                                       |                                       |                                       | [:octocat:](merge_sort/Python)        |
-| [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)                                  | [:octocat:](insertion_sort/C)         |                                       |                                       | [:octocat:](insertion_sort/Python)    |
-| [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort)                                    |                                       |                                       |                                       | [:octocat:](counting_sort/Python)     |
-| [Radix Sort](https://en.wikipedia.org/wiki/Radix_sort)                                          |                                       |                                       |                                       | [:octocat:](radix_sort/Python)        |
+| Algorithm                                                                                       | C                                     | CPP                                   | Java                                  | Python                                |JavaScript                             |
+|:----------------------------------------------------------------------------------------------- |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| [Euclidean GCD](https://en.wikipedia.org/wiki/Euclidean_algorithm)                              |                                       |[:octocat:](euclidean_gcd/C)           |                                       | [:octocat:](euclidean_gcd/Python)     |[:octocat:](euclidean_gcd/JavaScript)  |                         
+| [QuickSort](https://en.wikipedia.org/wiki/Quicksort)                                            |                                       |                                       |                                       | [:octocat:](quicksort/Python)         |                                       |
+| [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)                                          |                                       |                                       |                                       | [:octocat:](merge_sort/Python)        |                                       |
+| [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)                                  | [:octocat:](insertion_sort/C)         |                                       |                                       | [:octocat:](insertion_sort/Python)    |                                       |
+| [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort)                                    |                                       |                                       |                                       | [:octocat:](counting_sort/Python)     |                                       |
+| [Radix Sort](https://en.wikipedia.org/wiki/Radix_sort)                                          |                                       |                                       |                                       | [:octocat:](radix_sort/Python)        |                                       |
+
 
 
 ## Implemented Data Structures
